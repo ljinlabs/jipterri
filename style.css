@@ -1,0 +1,38 @@
+.jumbotron {
+  background: rgb(197, 240, 197);
+  margin-top: 1em;
+  margin-bottom: 1em;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+.jumbotron-fluid {
+  height: 40vh;
+  /* text-align: center; */
+  justify-content: center;
+  align-content: center;
+}
+
+.container {
+  min-height: 40vh;
+}
+
+.nav {
+  margin-bottom: 1em;
+}
+
+.row {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+}
+
+.countdown {
+  display:flex;
+  justify-content: center;
+  color: red;
+}
